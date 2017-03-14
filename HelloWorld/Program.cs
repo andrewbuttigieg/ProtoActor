@@ -13,6 +13,12 @@ namespace ProtoActorHelloWorld
 			{
 				Who = "Alex"
 			});
+
+			pid.Tell(new Hello
+			{
+				Who = "Bill"
+			});
+
 			Console.ReadLine();
         }
     }
