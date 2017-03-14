@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProtoActorHelloWorld
+namespace HelloWorld
 {
 	public class Hello
 	{

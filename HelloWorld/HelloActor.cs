@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using Proto;
 
-namespace ProtoActorHelloWorld
+namespace HelloWorld
 {
 	public class HelloActor : IActor
 	{

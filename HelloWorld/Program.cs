@@ -1,7 +1,7 @@
 ﻿using System;
 using Proto;
 
-namespace ProtoActorHelloWorld
+namespace HelloWorld
 {
     class Program
     {
